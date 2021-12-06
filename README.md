@@ -8,7 +8,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Lipsa98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Lipsa98)](https://twitter.com/Lipsa98) 
-[![Linkedin Badge](https://img.shields.io/badge/-lipsasahoo966-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerdynikhil/)](https://www.linkedin.com/in/nerdynikhil/)
+[![Linkedin Badge](https://img.shields.io/badge/-lipsasahoo966-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipsasahoo966/)](https://www.linkedin.com/in/lipsasahoo966/)
 [![Gmail Badge](https://img.shields.io/badge/-lipsa.sahoo.bhu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipsa.sahoo.bhu@gmail.com)](mailto:lipsa.sahoo.bhu@gmail.com)
 
 <!---
